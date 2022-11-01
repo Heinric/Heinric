@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heinric
 - 👀 I’m interested in Security, Back-end and Front-End
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning .Net 6, Javascript and Flutter
 
 <!---
 Heinric/Heinric is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
