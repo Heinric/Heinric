@@ -1,25 +1,25 @@
 <!-- Albano Nebula — GitHub Profile -->
 
 <div align="center">
-  <img src="./assets/generated/galaxy-header.svg" width="850" alt="Albano Nebula Header"/>
+  <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/galaxy-header.svg" width="850"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/stats-card.svg" width="850" alt="Engineering Telemetry"/>
+  <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/stats-card.svg" width="850"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/tech-stack.svg" width="850" alt="Core Technologies"/>
+  <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/tech-stack.svg" width="850"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="./assets/generated/projects-constellation.svg" width="850" alt="Project Constellation"/>
+  <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/projects-constellation.svg" width="850"/>
 </div>
 
 <br/>
