@@ -14,6 +14,18 @@
 <br/>
 
 <div align="center">
+  <a href="mailto:henrialbano@hotmail.com">
+    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/henrialbano/">
+    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
+  </a>
+  <a href="https://noalab.vercel.app/">
+    <img src="https://img.shields.io/badge/-Website-080c14?style=for-the-badge&logo=vercel&logoColor=ffb020" alt="Website"/>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/tech-stack.svg" width="850"/>
 </div>
 
@@ -41,14 +53,3 @@ Experienced with AWS (EKS, Lambda, SQS, S3, EC2), Kubernetes, Airflow pipelines,
 
 <br/>
 
-<div align="center">
-  <a href="mailto:henrialbano@hotmail.com">
-    <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/henrialbano/">
-    <img src="https://img.shields.io/badge/-LinkedIn-080c14?style=for-the-badge&logo=linkedin&logoColor=a78bfa" alt="LinkedIn"/>
-  </a>
-  <a href="https://noalab.vercel.app/">
-    <img src="https://img.shields.io/badge/-Website-080c14?style=for-the-badge&logo=vercel&logoColor=ffb020" alt="Website"/>
-  </a>
-</div>
