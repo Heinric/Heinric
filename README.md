@@ -8,12 +8,12 @@
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://noalab.vercel.app/">
-   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
+   <img height="32" src="https://cdn.simpleicons.org/googlechrome/ffb020" />
   </a>
 </div>
 
 <div align="center">
-  <img height="32" src="https://cdn.simpleicons.org/googlechrome/ffb020" />width="850"/>
+  <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/galaxy-header.svg" width="850"/>
 </div>
 
 
