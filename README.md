@@ -15,13 +15,13 @@
 
 <div align="center">
   <a href="mailto:henrialbano@hotmail.com">
-    <img src="https://img.shields.io/badge/✉_Email-080c14?style=for-the-badge&color=00d4ff" />
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
   </a>
   <a href="https://www.linkedin.com/in/henrialbano/">
-    <img src="https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&color=a78bfa" />
+    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
   <a href="https://noalab.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-080c14?style=for-the-badge&color=ffb020" />
+   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
   </a>
 </div>
 
