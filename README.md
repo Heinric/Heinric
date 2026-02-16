@@ -13,7 +13,7 @@
 -->
 <br/>
 
-<div align="center">
+<div align="rigth">
   <a href="mailto:henrialbano@hotmail.com">
     <img src="https://img.shields.io/badge/-Email-080c14?style=for-the-badge&logo=gmail&logoColor=00d4ff" alt="Email"/>
   </a>
