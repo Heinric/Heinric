@@ -14,19 +14,15 @@
 <br/>
 
 <div align="center">
-
   <a href="mailto:henrialbano@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0f1623?style=for-the-badge&logo=gmail&logoColor=00d4ff&  labelColor=0f1623" />
+    <img src="https://img.shields.io/badge/✉_Email-080c14?style=for-the-badge&color=00d4ff" />
   </a>
-  
-  <a href="https://linkedin.com/in/henrialbano">
-    <img src="https://img.shields.io/badge/LinkedIn-0f1623?style=for-the-badge&logo=linkedin&logoColor=a78bfa&  labelColor=0f1623" />
+  <a href="https://www.linkedin.com/in/henrialbano/">
+    <img src="https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&color=a78bfa" />
   </a>
-  
   <a href="https://noalab.vercel.app/">
-    <img src="https://img.shields.io/badge/Website-0f1623?style=for-the-badge&logo=vercel&logoColor=ffb020& labelColor=0f1623" />
+    <img src="https://img.shields.io/badge/Website-080c14?style=for-the-badge&color=ffb020" />
   </a>
-
 </div>
 
 <div align="center">
