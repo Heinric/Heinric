@@ -2,17 +2,17 @@
 
 <div align="center">
 
-<a href="mailto:henrialbano@hotmail.com">
-  <img src="https://img.shields.io/badge/Email-0f1623?style=for-the-badge&logo=gmail&logoColor=00d4ff&labelColor=0f1623" />
-</a>
-
-<a href="https://linkedin.com/in/henrialbano">
-  <img src="https://img.shields.io/badge/LinkedIn-0f1623?style=for-the-badge&logo=linkedin&logoColor=a78bfa&labelColor=0f1623" />
-</a>
-
-<a href="https://noalab.vercel.app/">
-  <img src="https://img.shields.io/badge/Website-0f1623?style=for-the-badge&logo=vercel&logoColor=ffb020&labelColor=0f1623" />
-</a>
+  <a href="mailto:henrialbano@hotmail.com">
+    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+  </a>
+  
+  <a href="https://linkedin.com/in/henrialbano">
+    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
+  
+  <a href="https://noalab.vercel.app/">
+    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
+  </a>
 
 </div>
 
