@@ -3,15 +3,15 @@
 <div align="center">
 
   <a href="mailto:henrialbano@hotmail.com">
-    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"/>
+    <img src="https://img.shields.io/badge/✉_Email-080c14?style=for-the-badge&color=00d4ff" />
   </a>
   
   <a href="https://linkedin.com/in/henrialbano">
-    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+    <img src="https://img.shields.io/badge/LinkedIn-080c14?style=for-the-badge&color=a78bfa" />
   </a>
   
   <a href="https://noalab.vercel.app/">
-    <img height="28" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"/>
+    <img src="https://img.shields.io/badge/Website-080c14?style=for-the-badge&color=ffb020" />
   </a>
 
 </div>
