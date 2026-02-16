@@ -2,7 +2,7 @@
 
 <div align="rigth">
   <a href="mailto:henrialbano@hotmail.com">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+    <img height="32" src="https://cdn.simpleicons.org/maildotru/00d4ff" />
   </a>
   <a href="https://www.linkedin.com/in/henrialbano/">
     <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
@@ -13,7 +13,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/galaxy-header.svg" width="850"/>
+  <img height="32" src="https://cdn.simpleicons.org/googlechrome/ffb020" />width="850"/>
 </div>
 
 
