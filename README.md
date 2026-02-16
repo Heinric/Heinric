@@ -1,17 +1,5 @@
 <!-- Albano Nebula — GitHub Profile -->
 
-<div align="rigth">
-  <a href="mailto:henrialbano@hotmail.com">
-    <img height="32" src="https://cdn.simpleicons.org/maildotru/00d4ff" />
-  </a>
-  <a href="https://www.linkedin.com/in/henrialbano/">
-    <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-  </a>
-  <a href="https://noalab.vercel.app/">
-   <img height="32" src="https://cdn.simpleicons.org/googlechrome/ffb020" />
-  </a>
-</div>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/galaxy-header.svg" width="850"/>
 </div>
@@ -25,7 +13,26 @@
 -->
 <br/>
 
+<div align="rigth">
+  <a href="mailto:henrialbano@hotmail.com" style="text-decoration: none;">
+    <img height="20" src="https://cdn.simpleicons.org/maildotru/00d4ff" />
+  <span style="margin-left:8px; font-weight:600; color:#f1f5f9;">Email</span>
+  </a>
 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://linkedin.com/in/henrialbano" style="text-decoration: none;">
+    <img height="20" src="https://cdn.simpleicons.org/linkedin/a78bfa" />
+    <span style="margin-left:8px; font-weight:600; color:#f1f5f9;">LinkedIn</span>
+  </a>
+
+  &nbsp;&nbsp;&nbsp;&nbsp;
+
+  <a href="https://noalab.vercel.app/" style="text-decoration: none;">
+    <img height="20" src="https://cdn.simpleicons.org/googlechrome/ffb020" />
+    <span style="margin-left:8px; font-weight:600; color:#f1f5f9;">Website</span>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Heinric/galaxy-profile/main/assets/generated/tech-stack.svg" width="850"/>
